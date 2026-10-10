@@ -34,3 +34,13 @@ Fișierul index.html din GitHub conține întreaga aplicație. La actualizare se
 
 ATRIBUIRI
 Leaflet 1.9.4: BSD-2-Clause; vezi LEAFLET-LICENSE.txt. Hartă stradală: © OpenStreetMap contributors. Fotografie ilustrativă Unsplash, recuperată din proiectul original. Prototip educațional realizat cu asistență AI.
+
+
+ACTUALIZARE 10 OCTOMBRIE 2026 — ROMÂNĂ / ENGLISH ȘI SATELIT
+În antet, selectează Română sau English. Alegerea se păstrează în browser dacă stocarea locală este permisă. Sunt traduse navigarea, formularele, mesajele și răspunsurile pregătite ale asistentului. Numele și adresele parcărilor rămân cele locale.
+La Parcări, apasă Satelit pentru imagini Esri World Imagery. Harta satelitară necesită internet, inclusiv când aplicația se deschide din arhiva locală. Imaginile nu sunt în timp real și nu indică ocuparea reală a locurilor. Poți reveni la Hartă stradală sau Hartă schematică. Dacă harta online nu se încarcă, folosește harta schematică offline.
+
+ENGLISH QUICK START
+Online: https://1x1x-del.github.io/spottr-demo/
+Offline copy: extract the ZIP first, then open DESCHIDE-SPOTTR.html in Chrome or Edge. Select English in the header. Under Parking, search Unirii, select a parking location and press Book demo. Use a fictional plate such as B 123 DEM. Manage, extend, cancel or export under My bookings. The assistant uses prepared answers, not a connected AI model. Bookings are simulations stored only in your browser; no payments are made.
+Select Satellite for Esri World Imagery. Satellite and street maps require internet even in the local version. Imagery is archived, not live. Use Schematic map without internet. No paid service, account or API key was added for this update.
